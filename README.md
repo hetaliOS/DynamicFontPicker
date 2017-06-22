@@ -1,0 +1,2 @@
+# DynamicFontPicker
+It seems like a common theme of iOS 10 and Swift 3 is to remove boilerplate code. Here is a quick example where it is now easier to support dynamic type without the need to register an observer for the UIContentSizeCategoryDidChangeNotification. In passing we will also see some examples of the Swift 3 Grand Renaming.  Dynamic Type Apple first introduced Dynamic Type with iOS 7. It allows the end user to specify their preferred text size from the device settings and is an important feature for making apps accessible to more users.
